@@ -1,0 +1,14 @@
+.vscode/*
+.vs/*
+node_modules
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+obj/Debug/WorkingTitle.Frontend.esproj.CoreCompileInputs.cache
+obj/Debug/WorkingTitle.Frontend.esproj.FileListAbsolute.txt
+WorkingTitle.Frontend.esproj
